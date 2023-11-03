@@ -18,6 +18,8 @@ public class CalculatorTest {
     }
 }
 
-//Buat kelas uji JUnit untuk menguji kelas "Calculator". Nama kelas uji harus mengikuti konvensi dengan akhiran "Test".
-//Kelas di atas mendefinisikan satu metode pengujian "testAddSucces"
+//Kelas di atas mendefinisikan dua metode pengujian: testAdd dan testSubtract.
 // setelah itu uji project yang telah dibuat.
+//Setelah dijalankan, JUnit akan menjalankan semua metode pengujian yang ditemukan dalam kelas "CalculatorTest"
+// dan memberikan laporan tentang apakah pengujian berhasil atau gagal. Jika semua pengujian berhasil, Anda akan mendapatkan keluaran yang
+// mengkonfirmasi bahwa kelas "Calculator" berfungsi dengan benar.
